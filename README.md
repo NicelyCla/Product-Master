@@ -13,7 +13,7 @@ Depending on the type of membership, the site will redirect to the areas differe
 To visit all the pages correctly, you must log in with at least one user for each category.
 
 ### The root user:
-- You can view sales and purchase invoices depending on the category and time frame indicated.
+- Can view sales and purchase invoices depending on the category and time frame indicated.
 - Can view, edit and delete users and suppliers.
 - Can view, add, edit and delete products.
 
