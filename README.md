@@ -8,6 +8,7 @@ Despite the single login, there are three different categories of users:
 - The administrator (root).
 - The common user.
 - The supplier.
+
 Depending on the type of membership, the site will redirect to the areas differently.
 To visit all the pages correctly, you must log in with at least one user for each category.
 
